@@ -1,5 +1,5 @@
 # Deep Learning Specialization @Coursera
-__~ deeplearning.ai__
+__~deeplearning.ai__
 
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/anishLearnsToCode/deep-learning-ai)
 ![made-with-MATLAB](https://img.shields.io/badge/Made%20with-MATLAB-1f425f.svg)
@@ -8,7 +8,7 @@ __~ deeplearning.ai__
 [![course-list](https://img.shields.io/badge/course-list-1f72ff.svg)](https://github.com/anishLearnsToCode/course-list)
 
 This is a specialization on 
-[Coursera]() 
+[Coursera](https://www.coursera.org/specializations/deep-learning) 
 which contains the following 5 courses:
 
 1. [Neural Networks & Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning?specialization=deep-learning) [:octocat:]()
