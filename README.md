@@ -11,7 +11,7 @@ This is a specialization on
 [Coursera](https://www.coursera.org/specializations/deep-learning) 
 which contains the following 5 courses:
 
-1. [Neural Networks & Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning?specialization=deep-learning) [:octocat:](neural-networks-deep-learning)
+1. [Neural Networks & Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning?specialization=deep-learning) [:octocat:](https://github.com/anishLearnsToCode/neural-networks-deep-learning)
 1. [Improving Deep Neural Networks: Hyperparameterization Tuning, Regularization and Optimization](https://www.coursera.org/learn/deep-neural-network?specialization=deep-learning) 
 1. [Structuring Machine Learning Projects](https://www.coursera.org/learn/machine-learning-projects?specialization=deep-learning) 
 1. [Convolutional Neural Networks](https://www.coursera.org/learn/convolutional-neural-networks?specialization=deep-learning) 
