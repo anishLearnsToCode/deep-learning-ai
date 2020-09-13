@@ -1,11 +1,7 @@
 # Deep Learning Specialization @Coursera
 __~deeplearning.ai__
 
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/anishLearnsToCode/deep-learning-ai)
-![made-with-MATLAB](https://img.shields.io/badge/Made%20with-MATLAB-1f425f.svg)
-![made-with-python](https://img.shields.io/badge/Made%20with-python-1f425f.svg)
-[![license](https://img.shields.io/badge/LICENSE-MIT-<COLOR>.svg)](LICENSE)
-[![course-list](https://img.shields.io/badge/course-list-1f72ff.svg)](https://github.com/anishLearnsToCode/course-list)
+[![course-list](https://img.shields.io/badge/also%20see-Other%20Coursera%20Courses-1f72ff.svg)](https://github.com/anishLearnsToCode/course-list#coursera)
 
 This is a specialization on 
 [Coursera](https://www.coursera.org/specializations/deep-learning) 
