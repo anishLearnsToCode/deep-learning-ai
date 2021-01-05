@@ -12,6 +12,7 @@ which contains the following 5 courses:
    [🎓](http://coursera.org/verify/2QP8D8FZ28B7)
 1. [Improving Deep Neural Networks: Hyperparameterization Tuning, Regularization and Optimization](https://www.coursera.org/learn/deep-neural-network?specialization=deep-learning)
    [:octocat:](https://github.com/anishLearnsToCode/improving-deep-neural-networks)
+   [🎓](https://coursera.org/verify/WLLHPCZSRZ2Y)
 1. [Structuring Machine Learning Projects](https://www.coursera.org/learn/machine-learning-projects?specialization=deep-learning) 
 1. [Convolutional Neural Networks](https://www.coursera.org/learn/convolutional-neural-networks?specialization=deep-learning) 
 1. [Sequence Models](https://www.coursera.org/learn/nlp-sequence-models) 
