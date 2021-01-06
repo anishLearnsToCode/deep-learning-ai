@@ -14,6 +14,7 @@ which contains the following 5 courses:
    [:octocat:](https://github.com/anishLearnsToCode/improving-deep-neural-networks)
    [🎓](https://coursera.org/verify/WLLHPCZSRZ2Y)
 1. [Structuring Machine Learning Projects](https://www.coursera.org/learn/machine-learning-projects?specialization=deep-learning) 
+   [:octocat:](https://github.com/anishLearnsToCode/structuring-ml-projects)
 1. [Convolutional Neural Networks](https://www.coursera.org/learn/convolutional-neural-networks?specialization=deep-learning) 
 1. [Sequence Models](https://www.coursera.org/learn/nlp-sequence-models) 
 
