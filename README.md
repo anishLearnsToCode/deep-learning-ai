@@ -17,6 +17,7 @@ which contains the following 5 courses:
    [:octocat:](https://github.com/anishLearnsToCode/structuring-ml-projects)
    [🎓](https://coursera.org/verify/SX8LNSPRY6NR)
 1. [Convolutional Neural Networks](https://www.coursera.org/learn/convolutional-neural-networks?specialization=deep-learning) 
+   [:octocat:](https://github.com/anishLearnsToCode/cnn-deeplearning-ai)
 1. [Sequence Models](https://www.coursera.org/learn/nlp-sequence-models) 
 
 > Hint: :octocat: links to the solution repository and 🎓 links to the certificate
