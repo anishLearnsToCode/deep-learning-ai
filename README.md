@@ -20,5 +20,6 @@ which contains the following 5 courses:
    [:octocat:](https://github.com/anishLearnsToCode/cnn-deeplearning-ai)
    [🎓](https://coursera.org/verify/KN92M6VXUXYA)
 1. [Sequence Models](https://www.coursera.org/learn/nlp-sequence-models) 
+   [:octocat:](https://github.com/anishLearnsToCode/sequence-models)
 
 > Hint: :octocat: links to the solution repository and 🎓 links to the certificate
