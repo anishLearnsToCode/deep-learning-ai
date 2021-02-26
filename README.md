@@ -21,5 +21,6 @@ which contains the following 5 courses:
    [🎓](https://coursera.org/verify/KN92M6VXUXYA)
 1. [Sequence Models](https://www.coursera.org/learn/nlp-sequence-models) 
    [:octocat:](https://github.com/anishLearnsToCode/sequence-models)
+   [🎓](https://coursera.org/verify/PA9BDUHSNER9)
 
 > Hint: :octocat: links to the solution repository and 🎓 links to the certificate
